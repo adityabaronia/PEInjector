@@ -1,0 +1,11 @@
+﻿  inMemory.c
+C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(150,35): warning C4047: '!=': '__unaligned DWORD' differs in levels of indirection from 'void *'
+C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(152,54): warning C4312: 'type cast': conversion from '__unaligned DWORD' to 'LPCSTR' of greater size
+C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(160,44): warning C4047: '!=': 'ULONGLONG' differs in levels of indirection from 'void *'
+C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(38,12): warning C4047: 'initializing': 'UINT64' differs in levels of indirection from 'void *'
+  Generating code
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  inMemory.vcxproj -> C:\Users\smoke\source\repos\inMemory\x64\Release\inMemory.exe
