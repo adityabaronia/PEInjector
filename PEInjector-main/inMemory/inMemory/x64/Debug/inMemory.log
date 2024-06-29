@@ -1,0 +1,12 @@
+﻿  inMemory.c
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(144,42): warning C4047: '!=': '__unaligned DWORD' differs in levels of indirection from 'void *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(146,54): warning C4312: 'type cast': conversion from '__unaligned DWORD' to 'LPCSTR' of greater size
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(154,51): warning C4047: '!=': 'ULONGLONG' differs in levels of indirection from 'void *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(178,16): warning C4133: '=': incompatible types - from 'char *' to 'UINT64 *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(179,16): warning C4133: '=': incompatible types - from 'char *' to 'UINT64 *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(180,16): warning C4133: '=': incompatible types - from 'char *' to 'UINT64 *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(181,16): warning C4133: '=': incompatible types - from 'char *' to 'UINT64 *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(182,16): warning C4133: '=': incompatible types - from 'char *' to 'UINT64 *'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(184,30): warning C4133: 'function': incompatible types - from 'UINT64 **' to 'char **'
+C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\inMemory\inMemory.c(31,12): warning C4047: 'initializing': 'UINT64' differs in levels of indirection from 'void *'
+  inMemory.vcxproj -> C:\Users\smoke.REDTEAMER\Desktop\PEInjector-main\PEInjector-main\inMemory\x64\Debug\inMemory.exe
