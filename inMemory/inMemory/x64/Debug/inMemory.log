@@ -1,6 +1,0 @@
-﻿  inMemory.c
-C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(181,35): warning C4047: '!=': '__unaligned DWORD' differs in levels of indirection from 'void *'
-C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(183,54): warning C4312: 'type cast': conversion from '__unaligned DWORD' to 'LPCSTR' of greater size
-C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(191,44): warning C4047: '!=': 'ULONGLONG' differs in levels of indirection from 'void *'
-C:\Users\smoke\source\repos\inMemory\inMemory\inMemory.c(69,12): warning C4047: 'initializing': 'UINT64' differs in levels of indirection from 'void *'
-  inMemory.vcxproj -> C:\Users\smoke\source\repos\inMemory\x64\Debug\inMemory.exe
